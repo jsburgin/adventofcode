@@ -38,4 +38,4 @@ const partOne = (file = 'input.txt') => {
   return overlap;
 };
 
-partOne();
+console.log(partOne());
